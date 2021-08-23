@@ -1,0 +1,89 @@
+body {
+    background-color:rgb(226, 226, 226);
+}
+
+/* Heading Section */
+main {
+    text-align: center;
+    margin: 0 2.5%;
+    font-size: 1.5em;
+    font-family: "EB Garamond", serif;
+}
+
+#title {
+    margin-bottom: 0;
+}
+
+
+#heading-caption {
+    font-size: 0.7em;
+    margin-bottom: 5%;
+}
+/* Image Section */
+#img-div {
+    width: auto;
+    margin: auto;
+}
+
+img {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#img-caption {
+    text-align: center;
+    padding: 1%;
+    font-style: italic;
+}
+
+/* Tribute info Section */
+
+#tribute-info {
+    width: 50%;
+    margin: auto;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    line-height: 1.8em;
+}
+
+.info-heading {
+    text-align: center;
+    margin: 7.5%;
+}
+
+li {
+    margin-bottom: 2%;
+}
+
+.year {
+    font-weight: bold;
+}
+
+/* The Quote Box */
+
+.quote-box {
+    background-color: rgb(255, 255, 255);
+    padding: 0.5% 4%;
+    border-radius: 5px;
+}
+
+.quote {
+    font-size: 1.1em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.author {
+    text-align: end;
+    font-size: 0.8em;;
+}
+
+/* Footer Section */
+
+footer {
+    text-align: center;
+    font-family: sans-serif;
+}
